@@ -4,7 +4,7 @@
 // convert int array to string array
 // create a compare function which will compare two strings s1 and s2
 //      ex. 2223 and 224 => X=2223224 and Y=2242223
-//      if X>Y, return true // this will place 224 before 2223
+//      if X>Y, return true // this will place 224 before 2223. // because we are sorting in descending order
 //      else return false
 // sort the string array using the compare function
 // if the first element of the sorted array is 0, return 0
